@@ -1,6 +1,6 @@
 __Project by Siddhant Mohapatra__
 
-__Web Scraping Algorithm is used to make trend study of google scholar articles on ionic batteries. A Python Program has been developed to extract structured web data over a time and map out the results in graph and database form, with information about the gradient. The study indicates maximum number of publications relates to Li-Ion batteries conforming the research trend.__
+__Web Scraping Algorithm is used to make trend study of google scholar articles on ionic batteries. A Python Program has been developed to extract structured web data over a time and map out the results in graph and database form, with information about the gradient. The study indicates maximum number of publications relates to Li-Ion batteries conforming to the research trend.__
 >To access the code click on the repository: Go to the source folder, and then click on the Python File to access the code.
                            
 __or__
